@@ -1,0 +1,21 @@
+           OBJECT  { sabse uppar ka class}
+             ⬇️
+          Throwable { ye bhi class hai }
+    ----------🚥-----------
+    ⬇️                   ⬇️     
+   Error               Exception{ isko handle kiya ja sakta hai}
+{isko handle nhi}
+
+:-ThreadDeath
+:- VirtualMachine error;
+:-Io error;
+
+
+
+                       ------- Exception:--------
+                      ⬇️                        ⬇️
+Runtime Exception(unchecked Exception)       sqlException{ checked Exception}
+.Arithmetic Exception;
+.ArrayOutofBound;
+.NullPointerException
+

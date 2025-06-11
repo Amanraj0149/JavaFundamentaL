@@ -1,0 +1,9 @@
+Types of interface:-
+
+Normal;
+functionalInterface/sam;
+marker;
+
+normal:- interface jisme multiple methods ho;
+sam:- single abstract method interface;
+Marker interface:-black interface, No methods;
