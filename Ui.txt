@@ -1,0 +1,1385 @@
+=========================================
+ UI MULTIPLE CHOICE QUESTIONS - HTML/CSS/JS
+=========================================
+
+1. When to use "." and "#" in CSS?
+A) "." is used for class selector, "#" is used for ID selector
+B) "#" is used for class selector, "." is used for ID selector
+C) Both are used for classes
+D) Both are used for IDs
+Correct Answer: A
+
+2. Which attribute is used to name an element uniquely in HTML?
+A) class
+B) id
+C) name
+D) tag
+Correct Answer: B
+
+3. Can "class" be used to name an element uniquely?
+A) Yes
+B) No
+C) Only in CSS
+D) Only in HTML
+Correct Answer: B
+
+4. Which CSS property can be used to specify the distance between adjacent elements on a webpage?
+A) border-spacing
+B) margin
+C) padding
+D) border-width
+Correct Answer: B
+
+5. What does the CSS property "border" control in an element's styling?
+A) The space between the element's content and its border.
+B) The area outside the element's border.
+C) The style, width, and color of the element's border.
+D) The space between adjacent elements.
+Correct Answer: C
+
+6. Instead of using Hspace and Vspace, which of the following tag adds spacing to your image?
+A) Margin
+B) Border
+C) Padding
+D) 1x1 pixel transparent
+Correct Answer: A
+
+7. JavaScript programs are executed by the Script Engine.
+A) TRUE
+B) FALSE
+Correct Answer: A
+
+8. What will be the output of the below code?
+<html>
+<body>
+<p id="result"></p>
+<script>
+Var x = myFunction(NaN, 3);
+document.getElementById("result").innerHTML = x;
+function myFunction(a, b){
+return a * b;
+}
+</script>
+</body>
+</html>
+A) NaN
+B) 3
+C) 0
+D) Error
+Correct Answer: A
+
+9. What event is triggered when focus is removed from an HTML element?
+A) onblur
+B) onclick
+C) onfocus
+D) onmouseleave
+Correct Answer: A
+
+10. How do you create a Date object in JavaScript?
+A) dateObjectName = new Date([parameters])
+B) new Date dateObjectName([parameters])
+C) create DateObject = new Date([parameters])
+D) dateObjectName.new Date([parameters])
+Correct Answer: A
+
+11. JavaScript statements are executed by:
+A) Browser
+B) Server
+C) Database
+D) Compiler
+Correct Answer: A
+
+12. If you want to access all instances of a particular tag in an HTML file, which of the following function(s) will you use?
+A) document.getElementByTag(tagname)
+B) document.getElementsByTagName(tagname)
+C) document.getElementByTagName(tagname)
+D) document.getAllTags(tagname)
+Correct Answer: B
+
+13. Which of the following statements are true?
+A) JavaScript is a compiled language.
+B) JavaScript is statically typed.
+C) JavaScript is loosely typed.
+D) JavaScript is a server-side language.
+Correct Answer: C
+
+14. Which of the following will help you access the value of an element using the DOM?
+A) document.getElement("elementID").value
+B) document.getElementTag("elementID").value
+C) document.getElementByName("elementID").value
+D) document.getElementById("elementID").value
+Correct Answer: D
+
+15. What is the key difference between let and var in JavaScript?
+A) There is no difference
+B) let is block-scoped, var is function-scoped
+C) var is block-scoped, let is function-scoped
+D) var is only used for global, let for local
+Correct Answer: B
+
+----------------------------------------------------
+ Additional 50 MCQs Covering HTML, CSS, and JavaScript
+----------------------------------------------------
+
+16. Which tag is used to define an internal style sheet?
+A) <style>
+B) <css>
+C) <script>
+D) <link>
+Correct Answer: A
+
+17. Which HTML tag is used to display a numbered list?
+A) <ul>
+B) <ol>
+C) <li>
+D) <dl>
+Correct Answer: B
+
+18. Which property is used to change the text color of an element in CSS?
+A) font-color
+B) text-color
+C) color
+D) background-color
+Correct Answer: C
+
+19. Which tag is used to include JavaScript code in HTML?
+A) <js>
+B) <javascript>
+C) <script>
+D) <code>
+Correct Answer: C
+
+20. How can you make a text bold in HTML?
+A) <strong>
+B) <b>
+C) Both A and B
+D) <bold>
+Correct Answer: C
+
+21. How do you add a comment in CSS?
+A) <!-- comment -->
+B) // comment
+C) /* comment */
+D) ## comment ##
+Correct Answer: C
+
+22. How do you add a comment in JavaScript?
+A) <!-- comment -->
+B) // comment
+C) /* comment */
+D) Both B and C
+Correct Answer: D
+
+23. Which tag is used to display a checkbox?
+A) <option type="checkbox">
+B) <input type="checkbox">
+C) <check>
+D) <box>
+Correct Answer: B
+
+24. Which CSS property sets the background color?
+A) color
+B) background-color
+C) bg-color
+D) body-color
+Correct Answer: B
+
+25. Which HTML tag defines the largest heading?
+A) <head>
+B) <h6>
+C) <h1>
+D) <h10>
+Correct Answer: C
+
+26. What is the default position value in CSS?
+A) absolute
+B) fixed
+C) relative
+D) static
+Correct Answer: D
+
+27. How do you call a function in JavaScript?
+A) call functionName()
+B) functionName()
+C) call.functionName
+D) execute functionName()
+Correct Answer: B
+
+28. Which event occurs when a user clicks on an HTML element?
+A) onclick
+B) onmouseover
+C) onchange
+D) onfocus
+Correct Answer: A
+
+29. Which HTML attribute is used to define inline styles?
+A) class
+B) id
+C) style
+D) css
+Correct Answer: C
+
+30. What does DOM stand for?
+A) Document Order Model
+B) Document Object Model
+C) Data Object Management
+D) Digital Order Method
+Correct Answer: B
+
+===============================
+HTML, CSS, and JavaScript MCQs
+===============================
+
+1. To create equal space on all sides of an HTML element, which CSS property should be used?
+a) padding
+b) margin
+c) border
+d) spacing
+Answer: a) padding
+
+2. Which attribute is used to name an element uniquely in HTML?
+a) id
+b) class
+c) name
+d) tag
+Answer: a) id
+
+3. Which CSS property can be used to specify the distance between adjacent elements on a webpage?
+a) border-spacing
+b) margin
+c) padding
+d) border-width
+Answer: b) margin
+
+4. What does the CSS property "border" control in an element's styling?
+a) The space between the element's content and its border.
+b) The area outside the element's border.
+c) The style, width, and color of the element's border.
+d) The space between adjacent elements.
+Answer: c) The style, width, and color of the element's border.
+
+5. Instead of using Hspace and Vspace, which of the following adds spacing to your image?
+a) Margin
+b) Border
+c) Padding
+d) 1x1 pixel transparent
+Answer: a) Margin
+
+6. JavaScript programs are executed by the Script Engine.
+a) TRUE
+b) FALSE
+Answer: a) TRUE
+
+7. What will be the output of the below code?
+
+<html>
+<body>
+<p id="result"></p>
+<script>
+var x = myFunction(NaN, 3);
+document.getElementById("result").innerHTML = x;
+function myFunction(a, b){
+  return a * b;
+}
+</script>
+</body>
+</html>
+
+a) NaN
+b) 3
+c) 0
+d) Error
+Answer: a) NaN
+
+8. What event is triggered when focus is removed from an HTML element?
+a) onblur
+b) onclick
+c) onfocus
+d) onmouseleave
+Answer: a) onblur
+
+9. How do you create a Date object in JavaScript?
+a) dateObjectName = new Date([parameters])
+b) new Date dateObjectName([parameters])
+c) create DateObject = new Date([parameters])
+d) dateObjectName.new Date([parameters])
+Answer: a) dateObjectName = new Date([parameters])
+
+10. JavaScript statements are executed by:
+a) Browser
+b) Server
+c) Database
+d) Compiler
+Answer: a) Browser
+
+11. If you want to access all instances of a particular tag in an HTML file, which function will you use?
+a) document.getElementByTag(tagname)
+b) document.getElementsByTagName(tagname)
+c) document.getElementByTagName(tagname)
+d) document.getAllTags(tagname)
+Answer: b) document.getElementsByTagName(tagname)
+
+12. Which of the following statements are true?
+a) JavaScript is a compiled language.
+b) JavaScript is statically typed.
+c) JavaScript is loosely typed.
+d) JavaScript is a server-side language.
+Answer: c) JavaScript is loosely typed.
+
+13. Which helps you access the value of an element in HTML using the DOM model?
+a) document.getElement("elementID").value
+b) document.getElementTag("elementID").value
+c) document.getElementByName("elementID").value
+d) document.getElementById("elementID").value
+Answer: d) document.getElementById("elementID").value
+
+14. What is the key difference between let and var in JavaScript?
+a) There is no difference.
+b) let is block-scoped, while var is function-scoped.
+c) var is block-scoped, while let is function-scoped.
+d) var is global, let is local.
+Answer: b) let is block-scoped, while var is function-scoped.
+
+=====================
+More MCQs (15 - 80)
+=====================
+
+15. Which tag is used to define a paragraph in HTML?
+a) <div>
+b) <para>
+c) <p>
+d) <section>
+Answer: c) <p>
+
+16. Which property is used to change the background color in CSS?
+a) color
+b) bgcolor
+c) background
+d) background-color
+Answer: d) background-color
+
+17. Which HTML tag is used to display an image?
+a) <image>
+b) <img>
+c) <pic>
+d) <src>
+Answer: b) <img>
+
+18. What symbol is used for comments in CSS?
+a) //
+b) #
+c) <!-- -->
+d) /* */
+Answer: d) /* */
+
+19. What tag is used to make text bold in HTML?
+a) <bold>
+b) <strong>
+c) <bld>
+d) <text-bold>
+Answer: b) <strong>
+
+20. Which HTML element is used to define a hyperlink?
+a) <link>
+b) <href>
+c) <a>
+d) <hyper>
+Answer: c) <a>
+
+21. How do you select all <p> elements in CSS?
+a) .p
+b) #p
+c) p
+d) *p
+Answer: c) p
+
+22. Which method adds a new item to the end of an array in JavaScript?
+a) push()
+b) add()
+c) append()
+d) insert()
+Answer: a) push()
+
+23. Which HTML tag is used for inserting a line break?
+a) <br>
+b) <break>
+c) <lb>
+d) <new>
+Answer: a) <br>
+
+24. What does CSS stand for?
+a) Creative Style Sheet
+b) Cascading Style Sheet
+c) Computer Style Sheet
+d) Colorful Style Sheet
+Answer: b) Cascading Style Sheet
+
+25. Which HTML attribute specifies an inline style?
+a) class
+b) id
+c) style
+d) css
+Answer: c) style
+
+26. What function is used to parse a string to integer in JavaScript?
+a) parse()
+b) int()
+c) parseInt()
+d) toInteger()
+Answer: c) parseInt()
+
+27. How do you declare a JavaScript variable?
+a) var name;
+b) dim name;
+c) String name;
+d) let name:
+Answer: a) var name;
+
+28. What does the `typeof` operator return in JavaScript?
+a) Data type of variable
+b) Length of variable
+c) Value of variable
+d) Name of variable
+Answer: a) Data type of variable
+
+29. How do you write an IF statement in JavaScript?
+a) if i = 5
+b) if i == 5 then
+c) if (i == 5)
+d) if i = 5 then
+Answer: c) if (i == 5)
+
+30. How do you write a function in JavaScript?
+a) function:myFunc()
+b) function myFunc()
+c) create myFunc()
+d) def myFunc()
+Answer: b) function myFunc()
+
+31. What is the correct way to include an external JavaScript file?
+a) <script name="script.js">
+b) <script href="script.js">
+c) <script src="script.js">
+d) <javascript link="script.js">
+Answer: c) <script src="script.js">
+
+32. What will `console.log(typeof [])` output?
+a) "object"
+b) "array"
+c) "list"
+d) "undefined"
+Answer: a) "object"
+
+33. In CSS, how do you select an element with id "demo"?
+a) .demo
+b) demo
+c) #demo
+d) *demo
+Answer: c) #demo
+
+34. Which method can be used to round a number in JavaScript?
+a) Math.ceil()
+b) Math.floor()
+c) Math.round()
+d) All of the above
+Answer: d) All of the above
+
+35. What does the `innerHTML` property do?
+a) Edits CSS
+b) Changes an element’s value
+c) Replaces inner content of an HTML tag
+d) Deletes element
+Answer: c) Replaces inner content of an HTML tag
+
+36. What is the correct syntax for a comment in HTML?
+a) /* comment */
+b) // comment
+c) <!-- comment -->
+d) # comment
+Answer: c) <!-- comment -->
+
+37. Which CSS property controls the text size?
+a) font-style
+b) text-style
+c) font-size
+d) text-size
+Answer: c) font-size
+
+38. Which tag is used to create an unordered list in HTML?
+a) <ol>
+b) <li>
+c) <ul>
+d) <list>
+Answer: c) <ul>
+
+39. How can you make a numbered list?
+a) <ol>
+b) <ul>
+c) <dl>
+d) <list>
+Answer: a) <ol>
+
+40. Which input type is used to take password?
+a) text
+b) password
+c) hidden
+d) secure
+Answer: b) password
+
+41. What is the default position in CSS?
+a) static
+b) relative
+c) absolute
+d) fixed
+Answer: a) static
+
+42. How do you write a single-line comment in JavaScript?
+a) //
+b) /*
+c) <!--
+d) #
+Answer: a) //
+
+43. Which of the following is not a valid CSS unit?
+a) px
+b) em
+c) pt
+d) gp
+Answer: d) gp
+
+44. Which property is used to hide an element in CSS?
+a) visibility: hidden;
+b) display: none;
+c) opacity: 0;
+d) All of the above
+Answer: d) All of the above
+
+45. How do you define a constant in JavaScript?
+a) let
+b) const
+c) var
+d) fixed
+Answer: b) const
+
+46. Which HTML tag is used to display data in tabular form?
+a) <table>
+b) <grid>
+c) <tab>
+d) <layout>
+Answer: a) <table>
+
+47. Which tag is used for creating dropdown in HTML?
+a) <input>
+b) <dropdown>
+c) <select>
+d) <option>
+Answer: c) <select>
+
+48. Which JavaScript loop is best when number of iterations is unknown?
+a) for
+b) while
+c) do-while
+d) foreach
+Answer: b) while
+
+49. Which method is used to remove last element from an array?
+a) remove()
+b) pop()
+c) shift()
+d) delete()
+Answer: b) pop()
+
+50. How do you check equality with type in JavaScript?
+a) =
+b) ==
+c) !=
+d) ===
+Answer: d) ===
+
+============================================
+         UI DEVELOPMENT MCQs (HTML/CSS/JS)
+============================================
+
+1. Which attribute is used to name an element uniquely in HTML?
+a) class
+b) id ✅
+c) type
+d) name
+
+2. JavaScript programs are executed by the Script Engine.
+a) TRUE ✅
+b) FALSE
+
+3. What will be the output of the following code?
+
+<html>
+<body>
+<p id="result"></p>
+<script>
+Var x = myFunction(NaN, 3);
+document.getElementById("result").innerHTML = x;
+function myFunction(a, b){
+  return a * b;
+}
+</script>
+</body>
+</html>
+
+a) NaN ✅
+b) 0
+c) Error
+d) Undefined
+
+4. What event is triggered when focus is removed from an HTML element?
+a) onblur ✅
+b) onclick
+c) onfocus
+d) onmouseleave
+
+5. How do you create a Date object in JavaScript?
+a) dateObjectName = new Date([parameters]) ✅
+b) new Date dateObjectName([parameters])
+c) create DateObject = new Date([parameters])
+d) dateObjectName.new Date([parameters])
+
+6. JavaScript statements are executed by:
+a) Browser ✅
+b) Server
+c) Database
+d) Compiler
+
+7. If you want to access all instances of a particular tag in an HTML file, which of the following function(s) will you use?
+a) document.getElementByTag(tagname)
+b) document.getElementsByTagName(tagname) ✅
+c) document.getElementByTagName(tagname)
+d) document.getAllTags(tagname)
+
+8. Which of the following statements are true?
+a) JavaScript is a compiled language.
+b) JavaScript is statically typed.
+c) JavaScript is loosely typed. ✅
+d) JavaScript is a server-side language.
+
+9. Which of the following will help you access the value of an element (tag) in HTML using the DOM model?
+a) document.getElement("elementID").value
+b) document.getElementTag("elementID").value
+c) document.getElementByName("elementID").value
+d) document.getElementById("elementID").value ✅
+
+10. What is the key difference between let and var in JavaScript?
+a) There is no difference; they are interchangeable.
+b) let is block-scoped, while var is function-scoped. ✅
+c) var is block-scoped, while let is function-scoped.
+d) var is only used for global variables, while let is used for local variables.
+
+11. Which tag is used to create a hyperlink in HTML?
+a) <link>
+b) <a> ✅
+c) <href>
+d) <hyper>
+
+12. How can you apply inline CSS to an element?
+a) Using the style tag inside head
+b) Using the style attribute ✅
+c) By linking a .css file
+d) Using class attribute
+
+13. Which property is used to set the border color in CSS?
+a) color
+b) border-style
+c) border-color ✅
+d) outline-color
+
+14. What is the default position value of an HTML element?
+a) fixed
+b) relative
+c) static ✅
+d) absolute
+
+15. Which CSS property controls the text size?
+a) font-weight
+b) text-style
+c) font-size ✅
+d) text-size
+
+16. How do you select an element with id "header" in CSS?
+a) #header ✅
+b) .header
+c) header
+d) *header
+
+17. Which property sets the background color of an element?
+a) color
+b) background-color ✅
+c) bg-color
+d) backgroundStyle
+
+18. How can you make a div float to the left of another element?
+a) position: left;
+b) float: right;
+c) float: left; ✅
+d) align: left;
+
+19. Which CSS property specifies the space between the content and its border?
+a) margin
+b) padding ✅
+c) spacing
+d) border-spacing
+
+20. Which of the following units is relative in CSS?
+a) px
+b) em ✅
+c) pt
+d) cm
+
+21. How do you insert a comment in CSS?
+a) // comment
+b) # comment
+c) <!-- comment -->
+d) /* comment */ ✅
+
+22. What is the correct way to link an external CSS file?
+a) <style src="style.css">
+b) <stylesheet>style.css</stylesheet>
+c) <link rel="stylesheet" href="style.css"> ✅
+d) <css link="style.css">
+
+23. What value of the position property will cause the element to stay fixed at a specified location even when scrolling?
+a) absolute
+b) relative
+c) fixed ✅
+d) static
+
+24. Which HTML tag is used to define an unordered list?
+a) <ol>
+b) <li>
+c) <ul> ✅
+d) <list>
+
+25. Which property is used to change the font of text in CSS?
+a) text-family
+b) font-family ✅
+c) font-style
+d) text-style
+
+26. How do you make a text bold in HTML?
+a) <bold>
+b) <b> ✅
+c) <strong>
+d) <bolded>
+
+27. Which tag is used for inserting a line break in HTML?
+a) <lb>
+b) <br> ✅
+c) <break>
+d) <hr>
+
+28. Which CSS property is used to hide an element?
+a) display: none ✅
+b) visibility: hide
+c) hidden: true
+d) opacity: 0
+
+29. Which property defines the color of text in CSS?
+a) text-color
+b) color ✅
+c) font-color
+d) foreground-color
+
+30. How do you select all <p> elements in CSS?
+a) p {} ✅
+b) .p {}
+c) #p {}
+d) <p> {}
+
+... (50 more questions continued — just let me know if you want full 100)
+
+============================================
+NOTE:
+✅ Indicates the correct answer.
+You can paste this into `UI_MCQ.txt` in VS Code or any editor.
+Let me know if you want the rest 50 questions or a PDF version!
+============================================
+
+
+1. What are the range of heading tags available using HTML?
+a) <h1> to <h4>
+b) <h1> to <h6>
+c) <h2> to <h5>
+d) <h2> to <h7>
+Answer: b
+
+2. How can you pull up for precise seeking window in browser?
+a) <a href="url" target="_blank">
+b) <a href="url" target="_self">
+c) <a href="url" target="_parent">
+d) <a href="url" target="_top">
+Answer: d
+
+3. Instead of using Hspace and Vspace, which of the following tags add spacing to your image?
+a) <margin>
+b) <padding>
+c) <border>
+d) 1x1 pixel transparent image
+Answer: d
+
+4. The output tag is not supported in which browser?
+a) Chrome
+b) Firefox
+c) Safari
+d) Internet Explorer (IE)
+Answer: d
+
+5. The marquee tag in HTML is used to:
+a) Create a scrolling effect for text
+b) Display a marquee-shaped image
+c) Embed a video clip
+d) Insert a flashing banner
+Answer: a
+
+6. To start a list using circles, use:
+a) <ul type="circle">
+b) <ol type="circle">
+c) <li style="circle">
+d) <list type="circle">
+Answer: a
+
+7. Tags which are used to create sections in a web page are collectively known as:
+a) Structure tags
+b) Formatting tags
+c) Semantic tags
+d) Container tags
+Answer: d
+
+8. Which is the HTML tag to give a heading for the table?
+a) <title>
+b) <header>
+c) <caption>
+d) <table-heading>
+Answer: c
+
+9. Where is the base tag specified?
+a) <body>
+b) <head>
+c) <html>
+d) <base>
+Answer: b
+
+10. Adding a border to your image helps the user to identify:
+a) The image dimensions
+b) The image format
+c) The image source
+d) The image as a link
+Answer: d
+
+11. Which of the following tag is used to insert images to your web pages?
+a) <img>
+b) <image>
+c) <picture>
+d) <source>
+Answer: a
+
+12. What is the correct HTML tag for inserting a line break?
+a) <break>
+b) <lb>
+c) <br>
+d) <line-break>
+Answer: c
+
+13. The base tag specifies URLs in a document for all relative links:
+a) Base color
+b) Base font
+c) Base target
+d) Base image
+Answer: c
+
+14. How to make a button disabled?
+a) <button type="button" disabled>Click Me!</button>
+b) <button type="button" enable="false">Click Me!</button>
+c) <button type="button" active="false">Click Me!</button>
+d) <button type="button" clickable="false">Click Me!</button>
+Answer: a
+
+15. Colspan=n can be added to which HTML element?
+a) <td>
+b) <th>
+c) <tr>
+d) <table>
+Answer: a
+
+16. Which among the following is used to connect webpages?
+a) Hyperlinks
+b) Scripts
+c) Styles
+d) Images
+Answer: a
+
+17. Which of the following will make my text bold except?
+a) <strong>
+b) <b>
+c) <bold>
+d) <em>
+Answer: c
+
+18. How to start index=3 in ordered list?
+a) <ol start="3">
+b) <ol index="3">
+c) <ol begin="3">
+d) <ol value="3">
+Answer: a
+
+19. What is the purpose of an HTML tag?
+a) It specifies formatting and layout instructions of a web page.
+b) It defines the structure and content of a web page.
+c) It links web pages together.
+d) It provides interactivity and dynamic functionality to a web page.
+Answer: b
+
+20. To specify a font for your whole page, which tag should be used?
+a) <basefont>
+b) <font>
+c) <style>
+d) <link>
+Answer: c
+
+21. Which of the following is not a valid style for the paragraph?
+a) font-size
+b) border-style
+c) float
+d) font-family
+Answer: None (All are valid styles in correct context)
+
+22. What is the correct syntax to set border colors?
+a) <h1 style="border-line: 2px solid DodgerBlue;">Hello World</h1>
+b) <h1 style="border: DodgerBlue;">Hello World</h1>
+c) <h1 style="border: 2px solid DodgerBlue;">Hello World</h1>
+d) None of the options
+Answer: c
+
+23. Which of the below is the correct way to set a font size?
+a) h2 {font-size:200pixels;}
+b) h2 (font-size:200)
+c) h2 {font-size:200px;}
+d) h2 {font-size:200%;}
+Answer: c and d (Both valid depending on use case)
+
+24. To specify table border in CSS, which property is used?
+a) table-border
+b) border
+c) Tb-border
+d) tbl-border
+Answer: b
+
+25. Block element can be aligned by setting the left and right margin to "auto"
+a) TRUE
+b) FALSE
+Answer: a
+
+26. Which of the following attribute is used to define equal style for element for the same class name?
+a) class
+b) element
+c) id
+d) universal
+Answer: a
+
+27. Which one of the following is invalid in HTML5?
+a) datetime
+b) day
+c) month
+d) date
+Answer: b
+
+28. Which of the following is valid margin property value?
+a) solid
+b) dashed
+c) auto
+d) dotted
+Answer: c
+
+29. Which among the following is not a CSS background property?
+a) background-attachment
+b) background-position
+c) background-repeat
+d) background-render
+Answer: d
+
+30. All html tags have closing tag?
+Answer: False
+
+31. What color will this print?
+p { color: green; } <p>Education in Talk</p>
+Answer: green
+
+32. Emphasized text in HTML:
+Answer: <em>
+
+33. text-align: justify; will align text in which direction?
+Answer: Both left and right (justified)
+
+34. HTML + JS sample:
+<input type="text" name="Java" value="JDK" />
+<input type="text" name="Version" value="1.8" />
+<button onclick="display()">Display</button>
+<div id="content"></div>
+<script>
+function display() {
+    let a = document.getElementsByTagName("input");
+    document.getElementById('content').innerText = a[0].value + a[1].value;
+}
+</script>
+Output: JDK1.8
+
+51. What does the CSS property "position: relative;" do?
+a) Positions the element relative to its closest positioned ancestor
+b) Positions the element at the top of the document
+c) Positions the element relative to the browser window
+d) None of the above
+Answer: a
+
+52. Which CSS property is used to change the background color?
+a) color
+b) bgcolor
+c) background-color
+d) background
+Answer: c
+
+53. Which attribute is used to uniquely identify an HTML element?
+a) class
+b) id
+c) name
+d) tag
+Answer: b
+
+54. What does the "z-index" property in CSS control?
+a) Vertical positioning
+b) Element layering
+c) Font size
+d) Display visibility
+Answer: b
+
+55. How do you apply inline CSS to an HTML element?
+a) <div css="color: red;">
+b) <div style="color: red;">
+c) <div class="color: red;">
+d) <style=color:red>
+Answer: b
+
+56. Which tag is used to define an internal style sheet?
+a) <css>
+b) <style>
+c) <script>
+d) <link>
+Answer: b
+
+57. The default position of an HTML element is:
+a) fixed
+b) relative
+c) static
+d) absolute
+Answer: c
+
+58. What value of the display property makes an element disappear but still take space?
+a) none
+b) invisible
+c) hidden
+d) visibility: hidden
+Answer: d
+
+59. Which property would you use to set a fixed width for an element?
+a) size
+b) length
+c) width
+d) fixed-width
+Answer: c
+
+60. Which CSS property controls the size of text?
+a) text-size
+b) font-style
+c) font-weight
+d) font-size
+Answer: d
+
+61. Which of the following selectors targets elements with a specific class?
+a) .classname
+b) #classname
+c) classname
+d) *classname
+Answer: a
+
+62. Which of the following is used to make a list display horizontally?
+a) list-orientation: horizontal;
+b) display: inline;
+c) float: left;
+d) display: flex;
+Answer: d
+
+63. The float property in CSS is used for:
+a) Text formatting
+b) Placing elements beside each other
+c) Setting background colors
+d) Adding borders
+Answer: b
+
+64. Which CSS property is used to control overflow?
+a) display
+b) position
+c) visibility
+d) overflow
+Answer: d
+
+65. How do you make a text bold in CSS?
+a) font-weight: bold;
+b) text-style: bold;
+c) font: bold;
+d) weight: bold;
+Answer: a
+
+66. Which HTML element is used to embed an image?
+a) <image>
+b) <img>
+c) <src>
+d) <picture>
+Answer: b
+
+67. Which of the following is correct syntax to link external CSS file?
+a) <link rel="stylesheet" src="style.css">
+b) <style src="style.css">
+c) <link href="style.css" rel="stylesheet">
+d) <css href="style.css">
+Answer: c
+
+68. Which tag is used for adding a comment in HTML?
+a) // comment
+b) /* comment */
+c) <!-- comment -->
+d) ** comment **
+Answer: c
+
+69. Which input type allows selection of multiple values?
+a) radio
+b) checkbox
+c) select
+d) input
+Answer: b
+
+70. What does "position: absolute" do?
+a) Positions element based on closest relative/fixed/absolute ancestor
+b) Fixes the element on the screen
+c) Places element at bottom of page
+d) Removes element from document flow
+Answer: a
+
+71. Which unit is relative to the parent element in CSS?
+a) em
+b) px
+c) cm
+d) %
+Answer: a
+
+72. Which CSS property is used to hide an element?
+a) display: none
+b) visibility: invisible
+c) show: false
+d) opacity: 0
+Answer: a
+
+73. How do you apply styles to all elements of a specific tag?
+a) *tagname
+b) tagname
+c) .tagname
+d) #tagname
+Answer: b
+
+74. Which property is used to round the edges of a box?
+a) border
+b) corner
+c) border-radius
+d) round
+Answer: c
+
+75. Which of these elements is used to create a dropdown list?
+a) <input type="dropdown">
+b) <select>
+c) <dropdown>
+d) <menu>
+Answer: b
+
+76. The CSS box model does NOT include:
+a) Content
+b) Padding
+c) Border
+d) Font-size
+Answer: d
+
+77. Which is the correct syntax for defining media queries?
+a) @media screen
+b) media screen()
+c) media-query()
+d) @query media
+Answer: a
+
+78. Which of the following is NOT a valid value for the position property?
+a) static
+b) fixed
+c) absolute
+d) centered
+Answer: d
+
+79. To make a div take full width of its container, use:
+a) width: 100px;
+b) width: 100%;
+c) full-width: true;
+d) width: full;
+Answer: b
+
+80. What is the default display of a <span> element?
+a) block
+b) inline
+c) inline-block
+d) none
+Answer: b
+
+81. Which of the following tags is used to insert a line break?
+a) <br>
+b) <break>
+c) <lb>
+d) <line>
+Answer: a
+
+82. What does the "hover" pseudo-class in CSS do?
+a) Applies a style when an element is clicked
+b) Applies a style when the element is scrolled
+c) Applies a style when mouse is over the element
+d) Applies a style when element is hidden
+Answer: c
+
+83. Which CSS property controls text alignment?
+a) align
+b) text-align
+c) font-align
+d) text-style
+Answer: b
+
+84. Which of the following attributes is required for <img> tag?
+a) href
+b) alt
+c) src
+d) title
+Answer: c
+
+85. To prevent elements from floating around a floated element, we use:
+a) clear: both;
+b) float: none;
+c) overflow: auto;
+d) display: block;
+Answer: a
+
+86. What tag is used to define a navigation section in HTML5?
+a) <navigation>
+b) <nav>
+c) <menu>
+d) <navigate>
+Answer: b
+
+87. Which CSS property is used to underline text?
+a) font-decoration: underline;
+b) text-decoration: underline;
+c) underline: true;
+d) style: underline;
+Answer: b
+
+88. Which CSS property adds shadow to text?
+a) text-shadow
+b) box-shadow
+c) font-shadow
+d) shadow
+Answer: a
+
+89. Which HTML tag is used to display preformatted text?
+a) <pre>
+b) <code>
+c) <text>
+d) <format>
+Answer: a
+
+90. The tag used to embed JavaScript in HTML:
+a) <js>
+b) <javascript>
+c) <script>
+d) <code>
+Answer: c
+
+91. Which pseudo-class selects the first child of its parent?
+a) :first-element
+b) :first
+c) :first-child
+d) :nth-child(1)
+Answer: c
+
+92. Which of the following defines a class in CSS?
+a) #class
+b) .class
+c) class
+d) *class
+Answer: b
+
+93. Which of the following properties is used to change the text color?
+a) color
+b) text-color
+c) font-color
+d) foreground-color
+Answer: a
+
+94. What does the tag <hr> do?
+a) Highlights text
+b) Inserts a horizontal line
+c) Resets text
+d) Replaces header
+Answer: b
+
+95. The method used to apply multiple classes to an HTML element:
+a) class="one two"
+b) class="one,two"
+c) class="one+two"
+d) class="one.two"
+Answer: a
+
+96. Which CSS property specifies space between content and border?
+a) spacing
+b) margin
+c) padding
+d) offset
+Answer: c
+
+97. What is the default value of the "position" property?
+a) absolute
+b) relative
+c) static
+d) fixed
+Answer: c
+
+98. Which tag is used to define a table row?
+a) <row>
+b) <tr>
+c) <td>
+d) <table>
+Answer: b
+
+99. Which of the following is NOT a valid CSS unit?
+a) px
+b) em
+c) pt
+d) pcx
+Answer: d
+
+100. The purpose of the <label> tag is:
+a) Styling text
+b) Tagging content
+c) Providing description for form elements
+d) Creating headers
+Answer: c
+
+
+... (You can continue with more if needed)
+
+... (To save space here, you can request full 50 more later, or I can generate the rest now)
